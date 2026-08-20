@@ -1,0 +1,99 @@
+[
+    {
+        "id": "Q1",
+        "question": "What are the four basic steps of a First Aider?",
+        "expected_keywords": [
+            "Recognize the emergency",
+            "Protect yourself",
+            "Access help",
+            "Act according to your skills"
+        ]
+    },
+    {
+        "id": "Q2",
+        "question": "When should EMS/9-1-1 be activated in an emergency?",
+        "expected_keywords": [
+            "life-threatening emergency",
+            "calling EMS/9-1-1",
+            "emergency medical help"
+        ]
+    },
+    {
+        "id": "Q3",
+        "question": "What should you do during a seizure?",
+        "expected_keywords": [
+            "Protect the person from injury",
+            "Do not try to hold the person down",
+            "Roll the person onto his or her side"
+        ]
+    },
+    {
+        "id": "Q4",
+        "question": "When should you call EMS/9-1-1 for a seizure?",
+        "expected_keywords": [
+            "seizure lasts more than a few minutes",
+            "several seizures in a row",
+            "first seizure",
+            "does not wake up"
+        ]
+    },
+    {
+        "id": "Q5",
+        "question": "What should you do for life-threatening bleeding?",
+        "expected_keywords": [
+            "life-threatening bleeding",
+            "controlled immediately",
+            "direct pressure"
+        ]
+    },
+    {
+        "id": "Q6",
+        "question": "What are the signs and symptoms of opioid poisoning?",
+        "expected_keywords": [
+            "abnormal, slow, or no breathing",
+            "change in responsiveness",
+            "small or pinpoint pupils",
+            "seizures",
+            "clammy skin"
+        ]
+    },
+    {
+        "id": "Q7",
+        "question": "What should you do if a person with a diabetic emergency is unable to swallow safely?",
+        "expected_keywords": [
+            "unable to swallow safely",
+            "call EMS/9-1-1",
+            "recovery position"
+        ]
+    },
+    {
+        "id": "Q8",
+        "question": "What are the signs and symptoms of a penetrating chest injury?",
+        "expected_keywords": [
+            "difficulty breathing",
+            "gasping",
+            "bleeding from an open chest wound",
+            "sucking sound",
+            "severe pain"
+        ]
+    },
+    {
+        "id": "Q9",
+        "question": "What should you do for a minor cut or scrape?",
+        "expected_keywords": [
+            "apply direct pressure",
+            "rinse the wound",
+            "clean, running tap water",
+            "sterile non-stick dressing"
+        ]
+    },
+    {
+        "id": "Q10",
+        "question": "What should you do if a person is experiencing opioid poisoning?",
+        "expected_keywords": [
+            "Call EMS/9-1-1",
+            "naloxone",
+            "recovery position"
+        ]
+    }
+]

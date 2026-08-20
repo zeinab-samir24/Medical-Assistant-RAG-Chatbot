@@ -1,0 +1,4 @@
+configuration,precision_at_3,precision_at_4,precision_at_5
+300/30,0.467,0.475,0.44
+400/50,0.467,0.4,0.36
+500/75,0.5,0.45,0.4
